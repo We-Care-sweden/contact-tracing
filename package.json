@@ -1,0 +1,34 @@
+{
+    "name": "WeCare",
+    "version": "0.1.0",
+    "description": "Contact tracing app for the COVID-19 epidemic",
+    "homepage": "https://covidmap.se/",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/We-Care-sweden/contact-tracing"
+    },
+    "main": "src/index.js",
+    "files": [
+        "LICENSE",
+        "README.md",
+        "CHANGELOG.md",
+        "src/",
+        "android/",
+        "ios/"
+    ],
+    "keywords": [
+        "covid",
+        "covidmap",
+        "contact-tracing",
+        "react-native",
+        "react",
+        "android",
+        "ios"
+    ],
+    "nativePackage": true,
+    "devDependencies": {
+        "react": "16.13.1",
+        "react-native": "0.62"
+    }
+}
