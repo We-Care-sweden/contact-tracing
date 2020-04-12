@@ -52,4 +52,5 @@ android {
 
 dependencies {
     implementation "com.facebook.react:react-native:0.20.1"
+    implementation 'com.google.android.gms:play-services-tasks:17.0.2'
 }
