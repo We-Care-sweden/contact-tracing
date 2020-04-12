@@ -18,11 +18,6 @@ public interface ContactTracingCallback {
      * with the signature of an authorized medical authority.
      * @param keys
      */
-
-    /**
-     *
-     * @param keys
-     */
     void requestUploadDailyTracingKeys(List<DailyTracingKey> keys);
 
 
