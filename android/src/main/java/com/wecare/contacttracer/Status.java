@@ -1,4 +1,4 @@
-package com.wecare.reactplugin;
+package com.wecare.contacttracer;
 
 public interface Status {
     int SUCCESS = 0;

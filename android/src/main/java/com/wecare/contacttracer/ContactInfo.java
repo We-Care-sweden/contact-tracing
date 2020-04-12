@@ -1,4 +1,4 @@
-package com.wecare.reactplugin;
+package com.wecare.contacttracer;
 
 import java.util.Date;
 
